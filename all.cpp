@@ -1,3 +1,4 @@
+//hello
 void setup() {
   pinMode(2, INPUT);
   pinMode(8, INPUT);
@@ -17,4 +18,5 @@ void loop() {
   } else {
     digitalWrite(12, LOW);
   }
+
 }
