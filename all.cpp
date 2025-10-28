@@ -1,4 +1,4 @@
-//hello
+//helloHi
 void setup() {
   pinMode(2, INPUT);
   pinMode(8, INPUT);
@@ -20,3 +20,4 @@ void loop() {
   }
 
 }
+
